@@ -1,5 +1,6 @@
 ![Banner image for margaretmz GitHub profile](images/banner_image_margaret.jpg)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCQA2UT8Ro3y71r7ijbkovFw?style=flat-square&logo=youtube&logoColor=red)](https://www.youtube.com/@Machine2Art)
+[![Instagram](https://img.shields.io/badge/Followers-83-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/margaretmz)
 [![GitHub followers](https://img.shields.io/github/followers/margaretmz?color=%3988d6&style=flat-square&logo=github)](https://github.com/margaretmz?tab=followers)
 [![Medium followers](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium)](https://margaretmz.medium.com)
 [![X (Twitter) Follow](https://img.shields.io/badge/followers-3319-blue?style=flat-square&logo=x&logoColor=white)](https://x.com/margaretmz)
